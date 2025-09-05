@@ -1,5 +1,5 @@
 # Hi there 👋<br>
-### I’m currently learning Programming
+### I’m currently learning Programming And Design
 
 
 ## 🌐 Socials:
